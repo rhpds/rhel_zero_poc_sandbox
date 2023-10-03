@@ -4,6 +4,8 @@ antora:
   modules:
     - name: index
       label: "Overview"
+    - name: module-02
+      label: "Step 2"
 
 tabs:
   - name: terminal

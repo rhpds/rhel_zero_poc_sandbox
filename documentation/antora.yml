@@ -1,7 +1,5 @@
 name: template-tutorial
-title: EPEL Introduction
+title: Sandbox
 version: master
-# nav:
-#   - modules/ROOT/nav.adoc
 
 start_page: ROOT:index.adoc
